@@ -19,7 +19,7 @@ export default {
         ContactForm,
     },
     props: {
-        id: { type: String, required: true },
+        id: { type:String, required:true },
     },
     data() {
         return {
