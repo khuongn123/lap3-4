@@ -1,7 +1,7 @@
 <script>
 export default {
     props: {
-        modelValue: { type: String, default: "" },
+        modelValue: { type: String, default: ""},
     },
     emits: ["submit", "update:modelValue"],
     methods: {
