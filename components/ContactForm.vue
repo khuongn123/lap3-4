@@ -9,7 +9,7 @@
                 class="form-control"
                 v-model="contactLocal.name"
             />
-            <ErrorMessage name="name" class="error-feedback" />
+            <ErrorMessage name="name" class="error-feedback"/>
         </div>
         <div class="form-group">
             <label for="email">E-mail</label>
